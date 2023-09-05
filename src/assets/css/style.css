@@ -94,8 +94,8 @@ section {
 
 .header .navbar a:hover {
   color: #ffc107;
-  border-bottom: 0.1rem solid #ffc107;
-  padding-bottom: 0.5rem;
+  /* border-bottom: 0.1rem solid #ffc107; */
+  /* padding-bottom: 0.5rem; */
 }
 
 .header .icons div {
@@ -569,14 +569,19 @@ section {
 nav.navbar {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: left;
 }
 
 nav>a {
-  padding: 0.7rem 2rem;
+  margin: 0.9rem 2rem;
+  /* padding: 1rem 0rem; */
+
   color: #fff;
-  border: 0.2rem solid #ffc107;
+  
   font-size: 2rem;
+}
+nav:hover{
+  color: #ffc107;
 }
 @media (max-width: 449px) {
   .header .navbar a {
