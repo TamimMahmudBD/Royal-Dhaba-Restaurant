@@ -18,23 +18,23 @@ const Menu = () => {
             <div className="menu-box-header"><h2>BUFFET MENU</h2></div>
             <div className="sub-menu-box" >
               <div className="sub-menu-item">
-                <div className="internal-menu-header"> MenuName</div>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
+                <div className="internal-menu-header">DEVERAGES</div>
+                <li>Mineral water</li>
+                <li>Soft Drinks and small bottles</li>
               </div>
               <br />
               <div className="sub-menu-item">
-                <div className="internal-menu-header"> MenuName</div>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
+                <div className="internal-menu-header"> APPETIZER SOUP</div>
+                <li>Soup of the Day</li>
+                <li>Appetizer (1 person)</li>
+                <li>Fried Wontons/Spring Rolls</li>
               </div>
               <br />
               <div className="sub-menu-item">
-                <div className="internal-menu-header"> MenuName</div>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
+                <div className="internal-menu-header"> ASSORTED SALAD</div>
+                <li>Potato</li>
+                <li>Seasonal Salad</li>
+                <li>That Salad</li>
               </div>
               <br />
               <div className="sub-menu-item">

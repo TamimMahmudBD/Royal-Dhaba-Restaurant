@@ -14,7 +14,7 @@ const Home = () => {
             Welcome to Royal Dhaba Restaurant and Party Centre! Don't delay in taking your best snacks. We look forward to welcoming you.
           </p>
           
-          <ReactWhatsapp number="01739550997" className="btn fab fa-whatsapp" message="I need some infrmaion" > WhatsApp</ReactWhatsapp>
+          <ReactWhatsapp number="+8801712791500" className="btn fab fa-whatsapp" message="Hi, I need some information!" > WhatsApp</ReactWhatsapp>
           </div>
           
 
