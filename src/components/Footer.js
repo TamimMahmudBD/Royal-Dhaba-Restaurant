@@ -12,11 +12,10 @@ const Footer = () => {
       <section class="footer">
         <div class="share">
 
-          <a href="http://www.facebook.com/royaldhabakashiani/" class="fab fa-facebook-f" target="_blank" rel="noreferrer"><span></span></a>
-          <a href="http://www.facebook.com/royaldhabakashiani/" class="fab fa-twitter" target="_blank" rel="noreferrer"><span></span></a>
-          <a href="http://www.facebook.com/royaldhabakashiani/" class="fab fa-instagram" target="_blank" rel="noreferrer"><span></span></a>
-          <a href="http://www.facebook.com/royaldhabakashiani/" class="fab fa-linkedin" target="_blank" rel="noreferrer"><span></span></a>
-          <a href="http://www.facebook.com/royaldhabakashiani/" class="fab fa-pinterest" target="_blank" rel="noreferrer"><span></span></a>
+          <a href="/" class="fab fa-facebook-f" target="_blank" rel="noreferrer"><span></span></a>
+          <a href="/" class="fab fa-twitter" target="_blank" rel="noreferrer"><span></span></a>
+          <a href="/" class="fab fa-instagram" target="_blank" rel="noreferrer"><span></span></a>
+          
         </div>
         {/*<div class="links" ref={navbarRef}>
           <a href="#home">home</a>
@@ -28,7 +27,7 @@ const Footer = () => {
           <a href="#blogs">blogs</a>
         </div>*/}
         <div class="credit">
-          © Copyright by <span>Royel Dhaba Resturent & Party Center</span> | all rights reserved
+          © Copyright by <span>Royel Dhaba Resturent & Party Center</span> | all rights reserved.
         </div>
         <div>
           <button className='fas fa-angle-up w-6 h-6]'
