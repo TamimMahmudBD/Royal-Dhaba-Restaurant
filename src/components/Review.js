@@ -32,7 +32,7 @@ const Review = () => {
           <div className="box" >
             <img src={qouteImg} alt="" className="quote" />
             <p>
-            Food quality at Royal Dhaba Restaurant and Party Center is excellent. I really enjoyed eating here. All this again when the time comes. Their hospitality impressed me
+            Food quality at DHAKA CATERING SERVICE is excellent. I really enjoyed eating here. All this again when the time comes. Their hospitality impressed me
             </p>
             <img src={reviewImage2} className="user" alt="" />
             <h3>Ali Hussain</h3>
@@ -47,7 +47,7 @@ const Review = () => {
           <div className="box" >
             <img src={qouteImg} alt="" className="quote" />
             <p>
-            Their pizza and chicken fries are amazing. I couldn't forget the faludar saad of Royal Dhaba. I am impressed with their service. Thank you for serving such food
+            Their pizza and chicken fries are amazing. I couldn't forget the faludar saad of DHAKA CATERING SERVICE. I am impressed with their service. Thank you for serving such food
             </p>
             <img src={reviewImage3} className="user" alt="" />
             <h3>Ripon Khan</h3>
