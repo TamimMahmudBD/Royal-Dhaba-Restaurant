@@ -300,8 +300,8 @@ section {
 .menu-box-header{
   color: rgb(0, 0, 0);
   background-color: #ffc107;
-  padding: 15px 0px;
-  font-size: 16px;
+  padding: 12px 0px;
+  font-size: 13px;
   text-align: center;
 }
 .menu-sub-header{
@@ -311,12 +311,21 @@ section {
   font-size: 12px;
   text-align: center;
 }
+
+.menu-btn{
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 550;
+}
 .sub-menu-item{
 color: white;
 font-size: 20px;
 }
+.sub-item-two{
+  padding: 0px 30px;
+}
 .sub-menu-item>h5{
-  font-size: 20px;
+  font-size: 16px;
   text-align: left;
 }
 .main-sub-box{
@@ -324,14 +333,14 @@ font-size: 20px;
 }
 .menu-short-bio{
   margin-top: 25px;
-  font-size: 26px;
+  font-size: 22px;
   color: white;
   text-align: center;
 
 }
 .sub-menu-item>li{
-  padding: 0px 25px;
-  font-size: 20px;
+  padding: 0px 30px;
+  font-size: 17px;
   text-align: left;
 }
 
@@ -664,6 +673,16 @@ nav:hover{
   }
   .main-sub-box{
     width: 100%;
+  }
+  .sub-menu-item>li{
+    font-size: 12px;
+  }
+  .menu-short-bio{
+    font-size: 17px;
+  }
+  .inputBox >h2{
+    text-align: left;
+    font-size: 10px;
   }
 }
 

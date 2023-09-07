@@ -24,7 +24,7 @@ const About = () => {
               We source our ingredients with care and put our community at the center of everything we do. Contact us here to inquire! Welcome to our DHAKA CATERING SERVICE!
             </p>
             <a href="#contact" className="btn">
-              Welcome!
+              Contact Us!
             </a>
           </div>
         </div>

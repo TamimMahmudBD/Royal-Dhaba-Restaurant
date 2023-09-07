@@ -1,4 +1,5 @@
 import React from "react";
+import ReactWhatsapp from "react-whatsapp";
 // import { menu } from "../Data";
 import bodyLogo from "../assets/images/logo.png";
 // import menuImage2 from "../assets/images/menu-2.png";
@@ -59,23 +60,25 @@ const Menu = () => {
                 <li>Caramel Custard</li>
                 <li>Firni</li>
               </div>
+              <br />
+              <ReactWhatsapp number="+8801712791500" className="btn menu-btn " message="Hi, I need some information!" ><span className="fab fa-whatsapp"></span> Contact for price</ReactWhatsapp>
             </div>
           </div>
           <div className=" main-sub-box">
             <div className="menu-box-header"><h2>TAKE WAY BOX</h2></div>
             <div className="sub-menu-box" >
-              <div className="sub-menu-item">
+              <div className="sub-menu-item sub-item-two">
                 <div className="menu-sub-header "><h2>MENU: 1</h2></div>
                 <br />
                 <h5>Mineral Water (Small)</h5>
                 <h5>Plain Pullau</h5>
                 <h5>Poast Chicken</h5>
                 <br />
-                <h6 className="btn">Ccontact for Price</h6>
+                <ReactWhatsapp number="+8801712791500" className="btn menu-btn " message="Hi, I need some information!" ><span className="fab fa-whatsapp"></span> Contact for price</ReactWhatsapp>
               </div>
             </div>
             <div className="sub-menu-box" >
-              <div className="sub-menu-item">
+              <div className="sub-menu-item sub-item-two">
                 <div className="menu-sub-header "><h2>MENU: 2</h2></div>
                 <br />
                 <h5>Mineral Water (Small)</h5>
@@ -83,11 +86,11 @@ const Menu = () => {
                 <h5>Jali Kabab</h5>
                 <h5>Egg Bhuna</h5>
                 <br />
-                <h6 className="btn">Ccontact for Price</h6>
+                <ReactWhatsapp number="+8801712791500" className="btn menu-btn " message="Hi, I need some information!" ><span className="fab fa-whatsapp"></span> Contact for price</ReactWhatsapp>
               </div>
             </div>
             <div className="sub-menu-box" >
-              <div className="sub-menu-item">
+              <div className="sub-menu-item sub-item-two">
                 <div className="menu-sub-header "><h2>MENU: 3</h2></div>
                 <br />
                 <h5>Mineral Water (Small)</h5>
@@ -95,7 +98,7 @@ const Menu = () => {
                 <h5>Jali Kabab</h5>
                 <h5>Egg Bhuna</h5>
                 <br />
-                <h6 className="btn">Ccontact for Price</h6>
+                <ReactWhatsapp number="+8801712791500" className="btn menu-btn " message="Hi, I need some information!" ><span className="fab fa-whatsapp"></span> Contact for price</ReactWhatsapp>
               </div>
             </div>
 
@@ -138,8 +141,11 @@ const Menu = () => {
               <h3>Conferences &</h3>
               <h3>Others Prigrams too</h3>
             </div>
-            <div className="menu-short-bio">
-              <h6>HOUSE-39, ROAD-126, GULSHAN-01, DHAKA-1212,  Cell: +8801712791500, +88019111022 dhakacataringservice247@gmail.com www.dhakacateringservice.com</h6>
+            <div className="sub-menu-box">
+            <div className="menu-box-header"><h2>Our Info</h2></div>
+              <div className="menu-short-bio">
+                <h6>HOUSE-39, ROAD-126, GULSHAN-01, <br /> -DHAKA-1212. <br /> Cell: +8801712791500, +88019111022 <br /> dhakacataringservice247@gmail.com <br /><br /> www.dhakacateringservice.com</h6>
+              </div>
             </div>
           </div>
         </div>

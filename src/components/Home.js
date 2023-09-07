@@ -14,7 +14,7 @@ const Home = () => {
             Welcome to DHAKA CATERING SERVICE! Don't delay in taking your best snacks. We look forward to welcoming you.
           </p>
           
-          <ReactWhatsapp number="+8801712791500" className="btn fab fa-whatsapp" message="Hi, I need some information!" > WhatsApp</ReactWhatsapp>
+          <ReactWhatsapp number="+8801712791500" className="btn home-icon fab fa-whatsapp" message="Hi, I need some information!" > WhatsApp</ReactWhatsapp>
           </div>
           
 
