@@ -1,8 +1,8 @@
 
-import React, { useRef } from "react";
+// import React, { useRef } from "react";
 
 const Footer = () => {
-  const navbarRef = useRef();
+  // const navbarRef = useRef();
   return (
     <>
       <section class="footer">
@@ -14,7 +14,7 @@ const Footer = () => {
           <a href="http://www.facebook.com/royaldhabakashiani/" class="fab fa-linkedin" target="_blank" rel="noreferrer"><span></span></a>
           <a href="http://www.facebook.com/royaldhabakashiani/" class="fab fa-pinterest" target="_blank" rel="noreferrer"><span></span></a>
         </div>
-        <div class="links" ref={navbarRef}>
+        {/*<div class="links" ref={navbarRef}>
           <a href="#home">home</a>
           <a href="#about">about</a>
           <a href="#menu">menu</a>
@@ -22,7 +22,7 @@ const Footer = () => {
           <a href="#review">review</a>
           <a href="#contact">contact</a>
           <a href="#blogs">blogs</a>
-        </div>
+        </div>*/}
         <div class="credit">
         © Copyright by <span>Royel Dhaba Resturent & Party Center</span> | all rights reserved
         </div>
