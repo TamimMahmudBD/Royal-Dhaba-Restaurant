@@ -1,6 +1,6 @@
 import React from "react";
 // import { menu } from "../Data";
-import menuImage1 from "../assets/images/menu-1.png";
+import bodyLogo from "../assets/images/logo.png";
 // import menuImage2 from "../assets/images/menu-2.png";
 // import menuImage3 from "../assets/images/menu-3.png";
 // import menuImage4 from "../assets/images/menu-4.png";
@@ -14,7 +14,7 @@ const Menu = () => {
           our <span>menu</span>
         </h1>
         <div className="main-box box-container">
-          <div className="box main-sub-box">
+          <div className="main-sub-box">
             <div className="menu-box-header"><h2>BUFFET MENU</h2></div>
             <div className="sub-menu-box" >
               <div className="sub-menu-item">
@@ -24,7 +24,7 @@ const Menu = () => {
               </div>
               <br />
               <div className="sub-menu-item">
-                <div className="internal-menu-header"> APPETIZER SOUP</div>
+                <div className="internal-menu-header"> APPETIZER SOUR</div>
                 <li>Soup of the Day</li>
                 <li>Appetizer (1 person)</li>
                 <li>Fried Wontons/Spring Rolls</li>
@@ -38,57 +38,64 @@ const Menu = () => {
               </div>
               <br />
               <div className="sub-menu-item">
-                <div className="internal-menu-header"> MenuName</div>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
+                <div className="internal-menu-header"> MAIN DISHES</div>
+                <li>Egg Fride Rice</li>
+                <li>Paratha/Nan</li>
+                <li>Sweet & Sour Fish</li>
+                <li>Fride Chicken/Chicken Wings</li>
+                <li>Sliced Chicken With Green Chili & Onion</li>
+                <li>Beef with Ginger Mashroom</li>
+                <li>Mixed Vegetable with Soya Souce</li>
+                <li>Mutton Rexala/Beef Bhuna</li>
+                <li>Dal Butter Fry</li>
+                <li>B.B.Q</li>
+                <li>Grilled Chicken</li>
+                <li>Beef Boti Kabab</li>
               </div>
               <br />
               <div className="sub-menu-item">
-                <div className="internal-menu-header"> MenuName</div>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
-                <li>Demo Text for this point</li>
+                <div className="internal-menu-header"> Dessert</div>
+                <li>Fresh Fruit Cocktail</li>
+                <li>Caramel Custard</li>
+                <li>Firni</li>
               </div>
             </div>
           </div>
-          <div className="box main-sub-box">
+          <div className=" main-sub-box">
             <div className="menu-box-header"><h2>TAKE WAY BOX</h2></div>
             <div className="sub-menu-box" >
               <div className="sub-menu-item">
-                <div className="menu-box-header "><h2>MENU: 1</h2></div>
+                <div className="menu-sub-header "><h2>MENU: 1</h2></div>
                 <br />
-                <h5>DHAKA CATERING SERVICE</h5>
-                <h5>DHAKA CATERING SERVICE</h5>
-                <h5>DHAKA CATERING SERVICE</h5>
-                
+                <h5>Mineral Water (Small)</h5>
+                <h5>Plain Pullau</h5>
+                <h5>Poast Chicken</h5>
+                <br />
+                <h6 className="btn">Ccontact for Price</h6>
               </div>
             </div>
             <div className="sub-menu-box" >
               <div className="sub-menu-item">
-                <div className="menu-box-header "><h2>MENU: 2</h2></div>
+                <div className="menu-sub-header "><h2>MENU: 2</h2></div>
                 <br />
-                <h5>DHAKA CATERING SERVICE</h5>
-                <h5>DHAKA CATERING SERVICE</h5>
-                <h5>DHAKA CATERING SERVICE</h5>
+                <h5>Mineral Water (Small)</h5>
+                <h5>Chicken Biriyani</h5>
+                <h5>Jali Kabab</h5>
+                <h5>Egg Bhuna</h5>
+                <br />
+                <h6 className="btn">Ccontact for Price</h6>
               </div>
             </div>
             <div className="sub-menu-box" >
               <div className="sub-menu-item">
-                <div className="menu-box-header "><h2>MENU: 3</h2></div>
+                <div className="menu-sub-header "><h2>MENU: 3</h2></div>
                 <br />
-                <h5>DHAKA CATERING SERVICE</h5>
-                <h5>DHAKA CATERING SERVICE</h5>
-                <h5>DHAKA CATERING SERVICE</h5>
+                <h5>Mineral Water (Small)</h5>
+                <h5>Kachchi Biriyani (Beef)</h5>
+                <h5>Jali Kabab</h5>
+                <h5>Egg Bhuna</h5>
+                <br />
+                <h6 className="btn">Ccontact for Price</h6>
               </div>
             </div>
 
@@ -117,20 +124,22 @@ const Menu = () => {
             </div>
            </div>*/}
           </div>
-          <div className="box main-sub-box">
+          <div className=" main-sub-box">
             <div className="sub-menu-box" >
-              <img src={menuImage1} alt="" />
+              <img src={bodyLogo} alt="" />
             </div>
             <div className="menu-box-header"><h2>DHAKA CATERING SERVICE</h2></div>
             <br />
             <div className="sub-menu-box">
               <div className="menu-box-header"><h2>We are offering</h2></div>
-                <h3>DHAKA CATERING SERVICE</h3>
-                <h3>DHAKA CATERING SERVICE</h3>
-                <h3>DHAKA CATERING SERVICE</h3>
+              <br />
+              <h3>Wedding Recepion</h3>
+              <h3>Meetings</h3>
+              <h3>Conferences &</h3>
+              <h3>Others Prigrams too</h3>
             </div>
             <div className="menu-short-bio">
-              <h6>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt enim facere quaerat ad labore est maiores distinctio fugiat nihil odio atque nulla blanditiis obcaecati illum ratione quae alias, a accusantium adipisci. Nesciunt explicabo error.</h6>
+              <h6>HOUSE-39, ROAD-126, GULSHAN-01, DHAKA-1212,  Cell: +8801712791500, +88019111022 dhakacataringservice247@gmail.com www.dhakacateringservice.com</h6>
             </div>
           </div>
         </div>

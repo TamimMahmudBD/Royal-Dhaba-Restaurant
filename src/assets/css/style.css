@@ -83,7 +83,7 @@ section {
 }
 
 .header .logo img {
-  max-width: 80px;
+  max-width: 60px;
 }
 
 .header .navbar a {
@@ -286,30 +286,51 @@ section {
 }
 
 .sub-menu-box{
-  padding: 15px;
+  padding: 25px 15px;
   border: 0.2rem solid #ffc107;
+  color:white;
+  text-align: center;
+}
+.sub-menu-box>h3{
+  font-size: 20px;
+  margin: 5px 0px;
 }
 .menu-box-header{
   color: rgb(0, 0, 0);
   background-color: #ffc107;
-  padding: 10px 0px;
+  padding: 15px 0px;
+  font-size: 16px;
+  text-align: center;
+}
+.menu-sub-header{
+  color: rgb(0, 0, 0);
+  background-color: #ffc107;
+  padding: 8px 0px;
+  font-size: 12px;
   text-align: center;
 }
 .sub-menu-item{
 color: white;
 font-size: 20px;
 }
+.sub-menu-item>h5{
+  font-size: 20px;
+  text-align: left;
+}
 .main-sub-box{
   width: 33%;
 }
 .menu-short-bio{
   margin-top: 25px;
-  font-size: 16px;
+  font-size: 26px;
   color: white;
+  text-align: center;
 
 }
 .sub-menu-item>li{
-  font-size: 12px;
+  padding: 0px 25px;
+  font-size: 20px;
+  text-align: left;
 }
 
 .internal-menu-header{

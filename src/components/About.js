@@ -21,7 +21,7 @@ const About = () => {
               We have been supplying our customers with the finest food for the last 15 years, here are exceptional safes with commendable food quality. Our restaurant can accommodate up to 65 guests and potentially more. We can work with you on menus to organize snacks and drinks, first food in the mornong, lunches, and dinners.
             </p>
             <p>
-              We source our ingredients with care and put our community at the center of everything we do. Contact us here to inquire! Welcome to our Royal Dhaba restaurant!
+              We source our ingredients with care and put our community at the center of everything we do. Contact us here to inquire! Welcome to our DHAKA CATERING SERVICE!
             </p>
             <a href="#contact" className="btn">
               Welcome!

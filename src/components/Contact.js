@@ -19,21 +19,21 @@ const Contact = () => {
             <h3>get in touch</h3>
             <div class="contact-text inputBox">
             <span class="fas fa-chess-king"></span><span></span>
-              <h2  className="text-sm text-white"> Royel Dhaba Resturent & Party Center</h2>
+              <h2  className="text-sm text-white"> DHAKA CATERING SERVICE</h2>
             </div>
             <div class="contact-text inputBox">
             
             <span class="fas fa-mail-bulk"></span><span></span>
-              <h2  className="text-sm text-white "> Email: parosh1234@gmail.com</h2>
+              <h2  className="text-sm text-white "> Email: dhakacataringservice247@gmail.com</h2>
             </div>
             <div class="contact-text inputBox">
             <span class="fas fa-phone"></span><span></span>
               <h2 class="fas fa-phone" className="text-sm text-white"> Phone:
-              +880 01909037072</h2>
+              +8801712791500, +88019111022</h2>
             </div>
             <div class="contact-text inputBox ">
             <span class="fas fa-map-marked"></span><span></span>
-              <h2  className="text-sm text-white "> Address: Kashiani Bus stand, Kashiani, Gopalgonj.</h2>
+              <h2  className="text-sm text-white "> Address: HOUSE-39, ROAD-126, GULSHAN-01, DHAKA-1212</h2>
             </div>
           </form>
         </div>

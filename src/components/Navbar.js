@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import Logo from "../assets/images/logo-of-royal-dhaba-2.jpg";
+import bodyLogo from "../assets/images/logo.png";
 
 
 const Navbar = () => {
@@ -10,7 +10,7 @@ const Navbar = () => {
     <>
       <header className="header">
         <a href="/" className="logo">
-          <img src={Logo} alt="" />
+          <img src={bodyLogo} alt="" />
         </a>
         <nav className="navbar" ref={navbarRef}>
           <a class="menu-name" href="#home">home</a>

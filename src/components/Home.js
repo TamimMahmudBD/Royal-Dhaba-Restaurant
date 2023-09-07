@@ -11,7 +11,7 @@ const Home = () => {
             Fresh <span>food in the </span>morning
           </h3>
           <p>
-            Welcome to Royal Dhaba Restaurant and Party Centre! Don't delay in taking your best snacks. We look forward to welcoming you.
+            Welcome to DHAKA CATERING SERVICE! Don't delay in taking your best snacks. We look forward to welcoming you.
           </p>
           
           <ReactWhatsapp number="+8801712791500" className="btn fab fa-whatsapp" message="Hi, I need some information!" > WhatsApp</ReactWhatsapp>
