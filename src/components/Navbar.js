@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import bodyLogo from "../assets/images/logo.png";
+// import bodyLogo from "../assets/images/logo.png";
 
 
 const Navbar = () => {
@@ -9,9 +9,9 @@ const Navbar = () => {
   return (
     <>
       <header className="header">
-        <a href="/" className="logo">
-          <img src={bodyLogo} alt="" />
-        </a>
+        <h1 href="/" className="logo-text">
+          DHAKA CATERING
+        </h1>
         <nav className="navbar" ref={navbarRef}>
           <a class="menu-name" href="#home">home</a>
           <a href="#about">about</a>

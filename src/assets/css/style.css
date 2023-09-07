@@ -81,9 +81,11 @@ section {
   right: 0;
   z-index: 1000;
 }
-
+.logo-text{
+  color: #ffc107;
+}
 .header .logo img {
-  max-height: 70px;
+  max-height: 60px;
 }
 
 .header .navbar a {
