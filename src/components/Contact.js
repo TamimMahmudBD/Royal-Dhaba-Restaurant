@@ -8,9 +8,9 @@ const Contact = () => {
           <span>contact</span> us
         </h1>
         <div class="row">
-          <iframe title="Royel Dhaba Restaurent Map on Google"
+          <iframe title="Dhaka Catering Service Map on Google"
             class="map"
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14665.131822364201!2d89.7230368!3d23.2327883!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ffc9aa54fb63dd%3A0x6a2240f24ee8f8eb!2sRoyal%20Dhaba%20Restaurant%20%26%20Party%20Center!5e0!3m2!1sen!2sbd!4v1693903163011!5m2!1sen!2sbd"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.952383614067!2d90.41525377420828!3d23.78470988746047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c798c582b7fd%3A0xc4b304d16eca29c3!2s1%20Rd%20126%2C%20Dhaka%201212!5e0!3m2!1sen!2sbd!4v1694121973604!5m2!1sen!2sbd"
             allowfullscreen=""
             loading="lazy"
           ></iframe>
