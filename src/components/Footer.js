@@ -27,7 +27,7 @@ const Footer = () => {
           <a href="#blogs">blogs</a>
         </div>*/}
         <div class="credit">
-          © Copyright by <span>Royel Dhaba Resturent & Party Center</span> | all rights reserved.
+          © Copyright by <span>Dhaka Catering Service</span> | all rights reserved.
         </div>
         <div>
           <button className='fas fa-angle-up w-6 h-6]'
