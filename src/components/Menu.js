@@ -139,7 +139,7 @@ const Menu = () => {
               <h3>Wedding Recepion</h3>
               <h3>Meetings</h3>
               <h3>Conferences &</h3>
-              <h3>Others Prigrams too</h3>
+              <h3>Others Programs too</h3>
             </div>
             <div className="sub-menu-box">
             <div className="menu-box-header"><h2>Our Info</h2></div>
