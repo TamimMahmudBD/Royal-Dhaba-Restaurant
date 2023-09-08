@@ -68,7 +68,7 @@ const Menu = () => {
             <div className="menu-box-header"><h2>TAKE WAY BOX</h2></div>
             <div className="sub-menu-box" >
               <div className="sub-menu-item sub-item-two">
-                <div className="menu-sub-header "><h2>MENU: 1</h2></div>
+                <div className="menu-sub-header "><h2>MENU: 01</h2></div>
                 <br />
                 <h5>Mineral Water (Small)</h5>
                 <h5>Plain Pullau</h5>
@@ -79,7 +79,7 @@ const Menu = () => {
             </div>
             <div className="sub-menu-box" >
               <div className="sub-menu-item sub-item-two">
-                <div className="menu-sub-header "><h2>MENU: 2</h2></div>
+                <div className="menu-sub-header "><h2>MENU: 02</h2></div>
                 <br />
                 <h5>Mineral Water (Small)</h5>
                 <h5>Chicken Biriyani</h5>
@@ -91,7 +91,7 @@ const Menu = () => {
             </div>
             <div className="sub-menu-box" >
               <div className="sub-menu-item sub-item-two">
-                <div className="menu-sub-header "><h2>MENU: 3</h2></div>
+                <div className="menu-sub-header "><h2>MENU: 03</h2></div>
                 <br />
                 <h5>Mineral Water (Small)</h5>
                 <h5>Kachchi Biriyani (Beef)</h5>
